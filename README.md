@@ -6,7 +6,8 @@
 <p>According to sessions from UNIT-1 to UNIT-5</p>
 <ol>
 <li>Algorithm and pseudocode(unit-1)</li>
-<li>Algorithm analysis&nbsp;&nbsp;https://www.youtube.com/watch?v=xGYsEqe9Vl0</li>
+<li>Algorithm analysis&nbsp;&nbsp;</li>
+<li>https://www.youtube.com/watch?v=xGYsEqe9Vl0</li>
 <li>Asymptotic notations&nbsp;&nbsp;https://www.youtube.com/watch?v=ddsP7NecEBk</li>
 <li>Recursion call, mathematical induction&nbsp; &nbsp;https://www.youtube.com/watch?v=Y8xHD13WDjw</li>
 <li>substitution method</li>
@@ -22,4 +23,5 @@
 <li>N-queens problem(unit-4)https://www.youtube.com/watch?v=xFv_Hl4B83A</li>
 <li>Sum of subsets&nbsp;https://www.youtube.com/watch?v=kyLxTdsT8ws</li>
 <li>knapsack problem(branchbound)(unit-5)</li>
-<li>branch bound and randomized algorithm&nbsphttps://www.youtube.com/watch?v=3RBNPc0_Q6g
+<li>branch bound and randomized algorithm&amp;nbsphttps://www.youtube.com/watch?v=3RBNPc0_Q6g</li>
+</ol>
