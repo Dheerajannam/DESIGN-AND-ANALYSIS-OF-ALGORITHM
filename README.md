@@ -8,7 +8,8 @@
 <li>Algorithm and pseudocode(unit-1)</li>
 <li>Algorithm analysis&nbsp;&nbsp;</li>
 <li>https://www.youtube.com/watch?v=xGYsEqe9Vl0</li>
-<li>Asymptotic notations&nbsp;&nbsp;https://www.youtube.com/watch?v=ddsP7NecEBk</li>
+<li>Asymptotic notations&nbsp;&nbsp;
+  https://www.youtube.com/watch?v=ddsP7NecEBk</li>
 <li>Recursion call, mathematical induction&nbsp; &nbsp;https://www.youtube.com/watch?v=Y8xHD13WDjw</li>
 <li>substitution method</li>
 <li>Binary search(unit-2)&nbsp;&nbsp;https://www.youtube.com/watch?v=P3YID7liBug</li>
